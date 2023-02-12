@@ -1,3 +1,3 @@
 # company
 ## Link
-https://moeda3bousy.github.io/company/
+https://moeda3bousy.github.io/company
